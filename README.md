@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there I AM SRIRAM S 👋
+
+BE CSE STUDENT ASPIRING SOFTWARE DEVLOPER
+
+IOT USER
+
+LEARNING FULL STACK
+
+HACKATHON ENTHUIAST
+
+BUILDING PROJECT  AND SHARING MY PROCESSS
+
+EXPLORING NODE JS MONGO DB AND SMART TECHNOLOGIES
 
 <!--
 **srixram08/srixram08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
