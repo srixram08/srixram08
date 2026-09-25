@@ -1,244 +1,235 @@
-<h1 align="center">Hi 👋, I'm Sriram S</h1>
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
 
-<h3 align="center">
-Computer Science Engineering Student • Full Stack Developer • AI & Cloud Enthusiast
-</h3>
+<div align="center">
 
-<p align="center">
-Building intelligent, scalable and real-world technology solutions across 
-<strong>AI/ML • Full Stack • Cloud & DevOps • Kubernetes • Cybersecurity • IoT</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,16,18,20&text=SRIRAM%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20AI%20%7C%20Cloud%20%7C%20Full%20Stack&descAlignY=62&descSize=18&animation=fadeIn"/>
 
-<p align="center">
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems+for+Real-World+Problems;AI+%7C+Full+Stack+%7C+Cloud+%26+DevOps;Kubernetes+%7C+Cybersecurity+%7C+IoT;From+Idea+%E2%86%92+Architecture+%E2%86%92+Working+System;Always+Learning.+Always+Building." alt="Typing SVG" />
+
+<br><br>
+
 <a href="https://github.com/srixram08">
 <img src="https://img.shields.io/badge/GitHub-srixram08-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/sriram-s-3a52aa382">
 <img src="https://img.shields.io/badge/LinkedIn-Sriram%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:71382502170.sriram@sritcbe.ac.in">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=srixram08&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ========================= -->
+<!--        ABOUT ME           -->
+<!-- ========================= -->
 
-🎓 **2nd-Year B.E. Computer Science & Engineering Student**
+## 👋 About Me
 
-💻 Full Stack Developer building production-oriented web applications
+<img align="right" width="280" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Developer.gif"/>
 
-🤖 Exploring **Artificial Intelligence, AI/ML systems and intelligent automation**
+🎓 **2nd-Year B.E. Computer Science Engineering Student**
 
-☁️ Learning and implementing **Cloud, DevOps and Kubernetes**
+💻 Full Stack Developer building practical and scalable applications
 
-🔐 Interested in **Cybersecurity, AI Security and Digital Trust**
+🤖 Exploring **AI/ML, intelligent agents and decision systems**
 
-🌐 Building **IoT and embedded systems** that connect software with the physical world
+☁️ Working toward **Cloud, DevOps and Kubernetes**
 
-🚀 Active **Hackathon Participant** focused on solving real-world problems through technology
+🔐 Exploring **Cybersecurity and AI Security**
 
-🧠 Interested in systems that don't just **detect problems**, but can **understand, decide, act and verify outcomes**
+🌐 Building **IoT and embedded systems**
+
+🏆 Active **Hackathon Participant**
+
+🧠 Interested in systems that can:
+
+`Detect → Understand → Decide → Act → Verify`
+
+<br clear="right"/>
 
 ---
 
-## 🎯 Current Engineering Focus
+# ⚡ What I Build
+
+<div align="center">
+
+| 🧠 AI | ☁️ Cloud | 🔐 Security | 🌐 IoT |
+|:---:|:---:|:---:|:---:|
+| AI Agents | Kubernetes | AI Security | ESP32 |
+| Decision Systems | DevOps | Fraud Detection | Arduino |
+| Computer Vision | Reliability | Digital Trust | Sensors |
+| Predictive Systems | Automation | Red Teaming | Monitoring |
+
+</div>
+
+---
+
+# 🚀 Featured Engineering Projects
+
+## ⚡ VECTOR
+
+<div align="center">
+
+### AI Decision Intelligence & Infrastructure Assurance
+
+<img src="https://img.shields.io/badge/AI-Decision%20Intelligence-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-Infrastructure-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/SRE-Reliability-orange?style=for-the-badge"/>
+
+</div>
+
+> **Detect the problem. Find the root cause. Decide the action. Remediate safely. Verify recovery.**
+
+Vector is an autonomous infrastructure assurance platform designed to move beyond traditional anomaly detection.
 
 ```text
-AI / ML
-├── Intelligent Decision Systems
-├── AI Agents & Agent Security
-├── Computer Vision
-└── Predictive Analytics
-
-Cloud & DevOps
-├── Kubernetes
-├── Infrastructure Automation
-├── Reliability Engineering
-└── CI/CD & Observability
-
-Full Stack Engineering
-├── React / Next.js
-├── Node.js
-├── TypeScript
-├── REST APIs
-└── PostgreSQL / MongoDB
-
-Cybersecurity
-├── AI Security
-├── Fraud Detection
-├── Digital Trust
-└── Automated Remediation
-
-IoT & Embedded Systems
-├── ESP32
-├── Arduino
-├── Sensors & Actuators
-└── Real-Time Monitoring
+                  ┌─────────────────┐
+                  │ Infrastructure  │
+                  └────────┬────────┘
+                           ↓
+                    🔍 Detection
+                           ↓
+                    🧠 Root Cause
+                           ↓
+                   📊 Decision Engine
+                           ↓
+                    🛠️ Remediation
+                           ↓
+                    🛡️ Safety Check
+                           ↓
+                    ✅ Verification
+                           ↓
+                    🔄 Continuous Loop
 ```
+
+**Focus:** AI • SRE • Kubernetes • Root-Cause Analysis • Automated Remediation • Infrastructure Intelligence
 
 ---
 
-# 🚀 Featured Projects
+# 🛡️ TRUSTFORGE
 
-## ⚡ Vector — AI Decision Intelligence & Infrastructure Assurance
+<div align="center">
 
-> **From detecting infrastructure problems to identifying root causes, deciding remediation, executing safely, and verifying recovery.**
+### Enterprise AI Agent Security & Automated Remediation
 
-Vector is an **Autonomous AI Decision Intelligence & Infrastructure Assurance Platform** designed for modern cloud and Kubernetes environments.
+<img src="https://img.shields.io/badge/AI-Agent%20Security-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Red%20Teaming-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automated%20Remediation-8A2BE2?style=for-the-badge"/>
 
-### Core Capabilities
+</div>
 
-- 🔍 Infrastructure anomaly and incident detection
-- 🧠 Root-cause analysis
-- 🕸️ Dependency and failure correlation
-- 📊 Decision intelligence
-- 🛠️ Automated remediation planning
-- 🛡️ Safety-aware execution
-- ✅ Post-remediation verification
-- 🔄 Closed-loop infrastructure assurance
-- ☸️ Kubernetes-aware operations
-- 📈 Reliability and incident intelligence
-
-**Vision:**
+> **Attack AI agents before attackers do. Understand failures. Generate defenses. Verify fixes.**
 
 ```text
-Detect
-   ↓
-Understand
-   ↓
-Identify Root Cause
-   ↓
-Decide
-   ↓
-Remediate
-   ↓
-Verify
-   ↓
-Learn
+AI Agent
+   │
+   ├── 🔴 Red Team
+   │
+   ├── 🧪 Digital Twin
+   │
+   ├── 🕸️ Failure Graph
+   │
+   ├── 🛡️ Guardrail Generation
+   │
+   └── 🔧 Automated Remediation
 ```
 
-Vector is being developed toward a real-world reliability platform rather than a conventional anomaly-detection dashboard.
+**Focus:** AI Security • Agent Red Teaming • Digital Twins • Guardrails • Failure Analysis
 
 ---
 
-## 🛡️ TrustForge — Enterprise AI Agent Security
+# 🔐 SENTINELX
 
-**AI Agent Security • Red Teaming • Digital Twins • Automated Remediation**
+<div align="center">
 
-TrustForge is an enterprise security platform designed to evaluate and harden AI agents before failures reach production.
+### AI-Powered SIM-Swap & Account-Takeover Detection
 
-### Key Concepts
+<img src="https://img.shields.io/badge/Cybersecurity-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Trust-0066FF?style=for-the-badge"/>
 
-- 🤖 AI Agent Security
-- 🔴 Automated Red Teaming
-- 🧪 Digital Twin environments
-- 🕸️ Failure Graphs
-- 🛡️ Guardrail generation
-- 🔧 Automated remediation
-- 🔁 Continuous security validation
-- ⚡ One-click guardrail patches
+</div>
 
-The platform focuses on moving from:
-
-**"Find the vulnerability" → "Understand the failure" → "Generate the fix" → "Verify the fix"**
-
----
-
-## 🔐 SentinelX — AI SIM-Swap & Account-Takeover Detection
-
-Developed for the **Omnikon National Hackathon 2026**.
-
-SentinelX is an AI-powered fraud detection and digital-trust platform designed to detect suspicious account takeover patterns.
-
-### Detection Signals
-
-- 📱 Telecom / SIM activity
-- 💬 Communication signals
-- 🔑 Authentication events
-- 🌐 Login behaviour
-- 📍 Device changes
-- 🕸️ Correlated attack chains
-
-### Attack Chain
+Developed for **Omnikon National Hackathon 2026**.
 
 ```text
 Phishing SMS
      ↓
 SIM Swap
      ↓
-Unknown Device Login
+Unknown Device
      ↓
-Account Takeover
+Suspicious Login
+     ↓
+🚨 Account Takeover Risk
 ```
 
-Uses **correlation graphs + explainable AI** to provide risk intelligence rather than relying on a single suspicious event.
+SentinelX correlates multiple signals rather than treating suspicious events independently.
 
-**Domain:** Cybersecurity • Blockchain / Digital Trust • AI
+**Focus:** Fraud Detection • Correlation Graphs • XAI • Telecom Signals • Authentication Intelligence
 
 ---
 
-## 🛰️ TraceX — Satellite Oil-Spill Detection & Vessel Attribution
+# 🛰️ TRACEX
 
-**SIH 2026 • NTRO • Problem Statement SIH26143**
+<div align="center">
+
+### Satellite Oil-Spill Detection & Vessel Attribution
+
+<img src="https://img.shields.io/badge/SIH%202026-NTRO-0066FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Satellite%20AI-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Geospatial%20Intelligence-00897B?style=for-the-badge"/>
+
+</div>
 
 > **Reconstruct the spill. Trace the source. Explain the evidence. Test the hypothesis.**
 
-TraceX is an AI-powered **satellite intelligence and geospatial investigation platform** for detecting oil spills and identifying potentially responsible vessels.
-
-### Intelligence Pipeline
-
 ```text
-Satellite Data
-      ↓
-SpillVision
-      ↓
-Ocean Trace
-      ↓
-VesselGraph AIS
-      ↓
-Evidence Fusion
-      ↓
-Counterfactual Simulation
+🛰️ Satellite Imagery
+        ↓
+🧠 SpillVision
+        ↓
+🌊 Ocean Trace
+        ↓
+🚢 AIS VesselGraph
+        ↓
+🔗 Evidence Fusion
+        ↓
+🎲 Counterfactual Simulation
 ```
 
-### Core Technologies
+**Focus:** Computer Vision • SAR/EO • AIS • GIS • Spatiotemporal Intelligence • Graph AI • Simulation
 
-- 🛰️ SAR / EO satellite imagery
-- 🧠 Computer Vision
-- 🌊 Ocean current & wind modelling
-- 🚢 AIS vessel trajectories
-- 🗺️ GIS / Geospatial intelligence
-- 🕸️ Graph-based vessel correlation
-- 📊 Spatiotemporal analysis
-- 🎲 Monte Carlo simulation
-- 🔎 Explainable evidence fusion
-
-TraceX goes beyond simple oil-spill detection by attempting to reconstruct the event and establish a defensible chain of spatial and temporal evidence.
+**SIH 2026 — NTRO — PS SIH26143**
 
 ---
 
-## ♻️ ReviveX — High-Stakes Exam Resilience Platform
+# ♻️ REVIVEX
+
+<div align="center">
+
+### Resilient High-Stakes Examination Infrastructure
+
+<img src="https://img.shields.io/badge/Resilience-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Client--Edge-4A90E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recovery-AI-7B61FF?style=for-the-badge"/>
+
+</div>
 
 > **Predict failure. Preserve state. Verify integrity. Recover automatically.**
-
-ReviveX is a resilient examination platform designed to protect candidate state during network failures, browser crashes and unexpected disruptions.
-
-### Architecture Concepts
-
-- 💾 IndexedDB state persistence
-- ⚡ High-frequency state buffering
-- 🧠 ML-based failure-risk prediction
-- 🔐 Web Crypto integrity verification
-- 🔄 Automatic recovery
-- 🌐 NTP synchronization
-- 🧩 CRDT-based state handling
-- 🚦 Circuit breakers and backoff
-- 💥 Chaos testing
-- 📊 Real-time telemetry
-
-### Reliability Flow
 
 ```text
 Monitor
@@ -247,367 +238,273 @@ Predict Risk
    ↓
 Preserve State
    ↓
-Detect Failure
+Failure
    ↓
-Recover
+Automatic Recovery
    ↓
-Verify Integrity
+Integrity Verification
    ↓
 Resume
 ```
 
----
-
-## 📦 Inventra ERP — Enterprise Resource Planning
-
-A full-stack ERP platform for managing business operations through a unified system.
-
-### Modules
-
-- 📦 Product Management
-- 🏷️ Categories
-- 📊 Inventory
-- 🏭 Suppliers
-- 👥 Customers
-- 🛒 Purchases
-- 💰 Sales
-- 📈 Dashboard & Reporting
-- 🤖 Future AI Demand Forecasting
-
-Designed as an **enterprise management system**, not an e-commerce platform.
+**Focus:** IndexedDB • CRDT • Web Crypto • ML Risk Engine • NTP • Circuit Breakers • Chaos Testing
 
 ---
 
-## ⚡ Smart Energy Monitoring System
+# 📦 INVENTRA
 
-**IoT • ESP32 • Wokwi • ThingSpeak**
-
-An IoT-based energy monitoring and control system designed to provide real-time visibility into electricity consumption.
-
-### Features
-
-- ⚡ Power monitoring
-- 👤 Occupancy detection
-- 🔌 Appliance control
-- 💰 Cost estimation
-- 📊 Cloud telemetry
-- 📈 Live analytics
-- 🤖 AI-assisted prediction
-- 🎛️ Remote control
-
-Built using **ESP32 + sensors + ThingSpeak**.
-
-The project was also demonstrated during hackathon activities and focuses on reducing unnecessary energy consumption through monitoring and intelligent control.
-
----
-
-## 🖨️ CopyMate — Smart Document Printing Platform
-
-A planned **React Native / Expo** platform connecting users with printing services.
-
-### Concept
+### Enterprise Resource Planning Platform
 
 ```text
-Upload Document
-      ↓
-Select Printing Requirements
-      ↓
-Choose Print Provider
-      ↓
-Track Processing
-      ↓
+Products
+   ├── Inventory
+   ├── Suppliers
+   ├── Customers
+   ├── Purchases
+   ├── Sales
+   └── Analytics
+```
+
+A full-stack ERP platform designed around business operations and inventory intelligence.
+
+**Focus:** React • Node.js • PostgreSQL • REST APIs • Enterprise Workflows
+
+---
+
+# ⚡ SMART ENERGY MONITORING
+
+### IoT Energy Intelligence Platform
+
+```text
+ESP32
+ │
+ ├── ⚡ Current Sensor
+ ├── 👤 Occupancy Sensor
+ ├── 🔌 Relay
+ │
+ ↓
+Cloud Telemetry
+ │
+ ↓
+Analytics
+ │
+ ↓
+AI Prediction
+ │
+ ↓
+Smart Control
+```
+
+**Focus:** ESP32 • IoT • Sensors • ThingSpeak • Energy Analytics • Automation
+
+---
+
+# 🖨️ COPYMATE
+
+### Smart Document Printing Platform
+
+```text
+Upload
+  ↓
+Configure
+  ↓
+Print
+  ↓
+Track
+  ↓
 Pickup / Delivery
 ```
 
-Focused on simplifying document printing through a digital workflow.
+React Native / Expo concept for simplifying digital document printing workflows.
 
 ---
 
-## 🧠 FastSyn — Fast Synaptic Adaptation in AI
+# 🧠 FASTSYN
 
-A learning/research-oriented AI visualization concept exploring **fast-weight memory mechanisms**.
+### Fast Synaptic Adaptation in AI
 
-### Core Idea
+Exploring how rapidly changing memory states can complement traditional model weights.
 
 ```text
-Base Model Weights
-        +
+Base Weights
+     +
 Fast Synaptic State
-        ↓
+     ↓
 Rapid Adaptation
 ```
 
-Explores the relationship between:
-
-- Fast-weight memory
-- Transformer KV-cache
-- State-space approaches
-- O(1)-style adaptive memory concepts
-- Real-time memory visualization
-
-Built as an interactive technical demonstration with telemetry and matrix visualizations.
+**Focus:** AI Memory • Fast Weights • Adaptive Systems • Visualization
 
 ---
 
-# 🏆 Hackathons & Innovation
+# 🏆 HACKATHON & INNOVATION TRACK
 
-### 🥇 Omnikon National Hackathon 2026
-**Team: Hack jacks**
+<div align="center">
 
-Project: **SentinelX**
+<img src="https://img.shields.io/badge/Omnikon%20National%20Hackathon%202026-SentinelX-FF4B4B?style=for-the-badge"/>
 
-Problem Statement:
+<img src="https://img.shields.io/badge/SRM%20Hackathon-Top%2050-FFD700?style=for-the-badge"/>
 
-**Detecting SIM-Swap and Account-Takeover Fraud**
+<img src="https://img.shields.io/badge/Smart%20India%20Hackathon%202026-TraceX-0066FF?style=for-the-badge"/>
 
-Focus:
+</div>
 
-`AI • Cybersecurity • Digital Trust • Explainable AI`
+### Selected Work
 
----
-
-### 🏆 SRM Chennai × StudAI Foundry Hackathon
-
-**Top 50 Team Selection**
-
-Project:
-
-**Smart Energy Monitoring System**
-
-Built and demonstrated an IoT-based energy monitoring and control solution using ESP32 and cloud telemetry.
+| Project | Domain | Core Technology |
+|---|---|---|
+| **Vector** | Infrastructure / SRE | AI + Kubernetes |
+| **TrustForge** | AI Security | Red Teaming + Agents |
+| **SentinelX** | Cybersecurity | AI + Graph Intelligence |
+| **TraceX** | Space Technology | CV + GIS + AIS |
+| **ReviveX** | Reliability | AI + Edge Resilience |
+| **Smart Energy** | IoT | ESP32 + Cloud |
+| **Inventra** | Enterprise Software | Full Stack |
 
 ---
 
-### 🛰️ Smart India Hackathon 2026
-
-**Project: TraceX**
-
-Organization:
-
-**NTRO**
-
-Problem Statement:
-
-**SIH26143 — Satellite imagery-based oil-spill detection and vessel attribution**
-
-Domain:
-
-**Software / Space Technology**
-
----
-
-### 🚀 Other Innovation Work
-
-- TrustForge — Enterprise AI Agent Security
-- ReviveX — Resilient Examination Infrastructure
-- Vector — AI Infrastructure Assurance
-- CrimeVision AI — AI-powered crime intelligence concept
-- Personal Curator Agent
-- IoT and embedded-system prototypes
-- AI-powered full-stack application concepts
-
----
-
-# 🏅 Certifications & Achievements
-
-### IBM
-
-**IBM Career Education Program**
-
-**DevOps, Agile & Design Thinking**
-
-Issued through IBM Developer Skills Network.
-
----
-
-### IBM SkillsBuild
-
-**Enterprise Design Thinking Practitioner**
-
----
-
-### Google
-
-**Google Analytics Certification**
-
----
-
-### HackerRank
-
-**Python (Basic) Certification**
-
----
-
-### Infosys
-
-- Mastering IoT with Arduino
-- Cybersecurity Fundamentals
-
----
-
-### MongoDB
-
-**MongoDB Skill-A-Thon**
-
-🏅 Earned **5 MongoDB badges**
-
----
-
-### ISTE
-
-**ISTE Student Membership**
-
----
-
-# 💻 Technical Skills
+# 🧰 TECH STACK
 
 ## Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
+</p>
 
-## Full Stack Development
+## Full Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-## AI / Data / Systems
-
-![Python](https://img.shields.io/badge/AI%20%2F%20ML-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,react,nextjs,vite,nodejs" />
+</p>
 
 ## Cloud / DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+## AI / Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
 
 ## IoT / Embedded
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
 
 ---
 
-# 🧩 Engineering Interests
+# 🧠 Engineering Philosophy
+
+<div align="center">
 
 ```text
-Artificial Intelligence
-        │
-        ├── AI Agents
-        ├── Computer Vision
-        ├── Decision Intelligence
-        └── Predictive Systems
-        │
-        ▼
-Software Engineering
-        │
-        ├── Full Stack Applications
-        ├── Distributed Systems
-        └── API Architecture
-        │
-        ▼
-Cloud & Infrastructure
-        │
-        ├── Kubernetes
-        ├── DevOps
-        ├── Reliability Engineering
-        └── Infrastructure Automation
-        │
-        ▼
-Cyber-Physical Systems
-        │
-        ├── Cybersecurity
-        ├── IoT
-        ├── Embedded Systems
-        └── Intelligent Monitoring
+             REAL-WORLD PROBLEM
+                     │
+                     ▼
+              UNDERSTAND IT
+                     │
+                     ▼
+              DESIGN THE SYSTEM
+                     │
+                     ▼
+               BUILD THE MVP
+                     │
+                     ▼
+             TEST & BREAK IT
+                     │
+                     ▼
+              IMPROVE THE SYSTEM
+                     │
+                     ▼
+              DEPLOY & MONITOR
+                     │
+                     ▼
+                KEEP LEARNING
 ```
 
----
+</div>
 
-# 🌱 What I'm Learning
-
-- ☸️ Kubernetes & Cloud-Native Architecture
-- 🔄 DevOps & CI/CD
-- 🤖 AI/ML Engineering
-- 🧠 AI Agent Architecture
-- 🔐 AI Security & Cybersecurity
-- 🛰️ Geospatial AI
-- 📊 Data & Decision Intelligence
-- ⚙️ Distributed & Reliable Systems
-- 🌐 Scalable Full Stack Architecture
+> **I don't want to build software that only demonstrates a concept.  
+> I want to build systems that can solve meaningful problems.**
 
 ---
 
 # 📊 GitHub Activity
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=srixram08&theme=blue-green&hide_border=false" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srixram08&theme=github-dark&hide_border=true" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=srixram08&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srixram08&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=srixram08&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srixram08&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=srixram08&theme=algolia&margin-w=8&no-frame=true" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=srixram08&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
 
 ---
 
-# 📈 Contribution Philosophy
+# 🌐 Connect With Me
 
-> **Build. Break. Learn. Improve. Repeat.**
-
-I believe meaningful software engineering is not only about writing code.
-
-It is about understanding a real problem, designing the right system, validating assumptions, building reliable solutions, and continuously improving them.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/srixram08">
-<img src="https://img.shields.io/badge/GitHub-srixram08-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-srixram08-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sriram-s-3a52aa382">
-<img src="https://img.shields.io/badge/LinkedIn-Sriram%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sriram%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:71382502170.sriram@sritcbe.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=srixram08&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,16,18,20&animation=fadeIn"/>
 
-### 💡 Building intelligent systems that solve real-world problems.
+### 🚀 Build. Break. Learn. Improve.
 
 **AI • Full Stack • Cloud • DevOps • Kubernetes • Cybersecurity • IoT**
 
-</p>
+</div>
